@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bs-warning-rgb: 255, 169, 107;
+}
+
+.container-footer {
+  min-height: 40rem;
+  height: 50rem;
+  /* background-color: black; */
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.accordion-body {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.accordion-header {
+  font-weight: bold;
+}
+
+.container-line {
+  padding: 0 6rem 0 6rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.container-max-width {
+  width: 50rem;
+}
+
+.mapa {
+  width: 100%;
+  height: 50vh;
+}
+
+.vertical-line {
+  width: 1px;
+  border: 1px solid rgb(255, 169, 107);
+  padding: 0;
+}
+
+.horizontal-line {
+  width: 100%;
+  border: 1px solid rgb(255, 169, 107);
+  padding: 0;
+}
+
+.call-icon,
+.email-icon {
+  width: 1.5rem;
+}/*# sourceMappingURL=style.css.map */
