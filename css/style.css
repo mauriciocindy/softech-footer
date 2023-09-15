@@ -21,12 +21,12 @@ body {
 }
 
 .cindy-logo-footer {
-  width: 15rem;
+  width: 12rem;
 }
 
 .face-icon-footer,
 .ig-icon-footer {
-  width: 3rem;
+  width: 2.5rem;
 }
 
 .call-icon-footer,
@@ -74,4 +74,9 @@ body {
 .call-icon,
 .email-icon {
   width: 1.5rem;
+}
+
+.accordion-body {
+  text-align: start !important;
+  font-size: 1rem !important;
 }/*# sourceMappingURL=style.css.map */
