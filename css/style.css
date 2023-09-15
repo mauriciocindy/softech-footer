@@ -7,6 +7,7 @@
 
 :root {
   --bs-warning-rgb: 255, 169, 107;
+  --bs-primary-rgb: 255, 147, 68;
 }
 
 .container-footer {
@@ -17,6 +18,21 @@
 
 body {
   font-family: "Roboto", sans-serif;
+}
+
+.cindy-logo-footer {
+  width: 15rem;
+}
+
+.face-icon-footer,
+.ig-icon-footer {
+  width: 3rem;
+}
+
+.call-icon-footer,
+.email-icon-footer {
+  width: 1.4rem;
+  filter: invert(100);
 }
 
 .accordion-body {
