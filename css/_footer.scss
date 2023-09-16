@@ -12,3 +12,34 @@
     width: 1.4rem;
     filter: invert(100);
 }
+
+.wp-icon-footer {
+    width: 1.4rem;
+}
+
+.whatsapp {
+    position: fixed;
+    width: 3rem;
+    height: 3rem;
+    bottom: 1rem;
+    right: 1rem;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    z-index: 100;
+    transition: 0.2s;
+
+    &:hover {
+        filter: brightness(110%);
+        transition: 0.2s;
+    }
+}
+
+.whatsapp-icon {
+    width: 50%;
+}
+
+.contenedor-prueba {
+    min-height: 50rem;
+}
