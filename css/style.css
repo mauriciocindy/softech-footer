@@ -65,6 +65,11 @@ body {
   min-height: 50rem;
 }
 
+.img-marcas {
+  width: 10rem;
+  max-width: 20vw;
+}
+
 .accordion-body {
   padding-left: 3rem;
   padding-right: 3rem;
